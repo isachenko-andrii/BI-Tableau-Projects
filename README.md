@@ -13,7 +13,7 @@
   
 **Customer-Segmentation-and-Retention-Analysis**/ — project directory  
 ├── data/ — project data  
-│ ├── 01/ —   
+│ ├── 01/ — saas_revenue.csv  
 │ ├── 02/ —     
 │ └── 03/ —   
 ├── tableau/ — projects.twbx project file  
