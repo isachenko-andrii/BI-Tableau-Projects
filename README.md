@@ -23,7 +23,21 @@
 └── README.md — project description   
   
 ## Visualizations  
+
+ * **SaaS Sales Analytics 2022-2023**
+
+
+
+ * **User Engagement & Game Activity Analysis 2022**
+
   
+  
+ * **Financial Growth & Cohort Analysis**  
+
+  
+ * **Product Funnel 2023**  
+   
+   ![Project-logo](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Product_Funnel_2023.png)  
    
 ## Contact  
     
