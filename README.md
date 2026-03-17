@@ -12,10 +12,10 @@
 ## Project structure  
   
 **Customer-Segmentation-and-Retention-Analysis**/ — project directory  
-├── data/ — project data  
+├── data/ — projects data  
 │ ├── 01/ — saas_revenue.csv  
-│ ├── 02/ —     
-│ └── 03/ —   
+│ ├── 02/ — games_activity_combined (2.0).csv      
+│ └── 03/ — onboarding_funnel_product(2.0).csv  
 ├── tableau/ — projects.twbx project file  
 ├── images/ — saved graphs and final dashboard  
 ├── LICENSE — MIT License  
