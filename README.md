@@ -11,7 +11,7 @@
 
 ## Project structure  
   
-**Customer-Segmentation-and-Retention-Analysis**/ — project directory  
+**BI-Tableau-Projects**/ — project directory  
 ├── data/ — project data  
 │ ├── saas_revenue.csv  
 │ ├── games_activity_combined (2.0).csv      
