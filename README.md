@@ -18,7 +18,8 @@
 │ └── onboarding_funnel_product(2.0).csv  
 ├── tableau/ — project files  
 │ ├── SaaS Sales Analytics 2022-2023.twbx    
-│ ├── games_activity_combined (2.0).twbx      
+│ ├── User Engagement & Game Activity Analysis 2022.twbx   
+│ ├── User Engagement & Game Activity Analysis 2022.twbx  
 │ └── Product_Funnel_2023.twbx  
 ├── images/ — saved graphs and final dashboard  
 ├── LICENSE — MIT License  
