@@ -1,2 +1,42 @@
-# BI-Tableau-Projects
-📚Interactive product analytics dashboards built with Tableau Public
+![Project-logo](https://github.com/isachenko-andrii/BI-Tableau-Projects/raw/main/Project-logo.png)
+<div align="center">  
+    
+# BI-Tableau-Projects 
+  
+</div>
+
+
+
+
+
+## Project structure  
+  
+**Customer-Segmentation-and-Retention-Analysis**/ — project directory  
+├── data/ — project data  
+│ ├── 01/ —   
+│ ├── 02/ —     
+│ └── 03/ —   
+├── tableau/ — projects.twbx project file  
+├── images/ — saved graphs and final dashboard  
+├── LICENSE — MIT License  
+├── project-logo.png — project cover  
+└── README.md — project description   
+  
+## Visualizations  
+  
+   
+## Contact  
+    
+**Name:** [Andrii Isachenko](https://isachenko-andrii.github.io)    
+**LinkedIn:** [Andrii Isachenko](https://www.linkedin.com/in/isachenko-andrii/)  
+**E-mail:** isao.datastudio@gmail.com   
+  
+## Acknowledgments    
+
+ - Thanks to the [Data Analyst/GoIT](https://goit.global/ua/courses/data-analytics/) course, which was part of this project.  
+  
+---
+  
+**Project Status:** In progress.
+    
+**License:** MIT License.  
