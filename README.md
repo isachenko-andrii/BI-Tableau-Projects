@@ -28,7 +28,7 @@
   
 ## Visualizations  
 
- * **SaaS Sales Analytics 2022-2023**
+ * **[SaaS Sales Analytics 2022-2023](https://public.tableau.com/app/profile/isachenko.andrii/viz/SaaSSalesAnalytics2022-2023/Dashboard)**
 
    ![SaaS Sales Analytics 2022-2023](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/SaaS_Sales_Analytics_2022-2023.png)  
 
