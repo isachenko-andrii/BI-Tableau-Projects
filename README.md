@@ -34,7 +34,7 @@
 
  * **User Engagement & Game Activity Analysis 2022**
 
-  
+    ![User_Engagement_&_Game_Activity_Analysis_2022.png](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/User_Engagement_&_Game_Activity_Analysis_2022.png)   
   
  * **Financial Growth & Cohort Analysis**  
 
