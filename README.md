@@ -37,6 +37,6 @@
   
 ---
   
-**Project Status:** In progress.
+**Project Status:** Completed.
     
 **License:** MIT License.  
