@@ -1,14 +1,14 @@
 ![Project-logo](https://github.com/isachenko-andrii/BI-Tableau-Projects/raw/main/Project-logo.png)
 <div align="center">  
     
-# BI-Tableau-Projects 
+# BI Tableau Projects (Tableau Public)  
   
-</div>
-
-
-# coming soon...
-
-
+</div>  
+  
+  
+# coming soon...  
+  
+  
 ## BI Tableau Public Projects  
 
  * **[SaaS Sales Analytics 2022-2023](https://public.tableau.com/app/profile/isachenko.andrii/viz/SaaSSalesAnalytics2022-2023/Dashboard)**
