@@ -32,15 +32,15 @@
 
    ![SaaS Sales Analytics 2022-2023](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/SaaS_Sales_Analytics_2022-2023.png)  
 
- * **User Engagement & Game Activity Analysis 2022**
+ * **[User Engagement & Game Activity Analysis 2022](https://public.tableau.com/app/profile/isachenko.andrii/viz/UserEngagementGameActivityAnalysis2022/Dashboard)**
 
     ![User Engagement and Game Activity Analysis 2022.png](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/User_Engagement_&_Game_Activity_Analysis_2022.png)   
   
- * **Financial Growth & Cohort Analysis**  
+ * **[Financial Growth & Cohort Analysis](https://public.tableau.com/app/profile/isachenko.andrii/viz/FinancialGrowthCohortAnalysis/Dashboard2)**  
 
    ![Financial Growth and Cohort Analysis](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Financial_Growth_and_Cohort_Analysis.png) 
   
- * **Product Funnel 2023**  
+ * **[Product Funnel 2023](https://public.tableau.com/app/profile/isachenko.andrii/viz/ProductFunnel2023/Dashboard)**  
    
    ![Product Funnel_2023](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Product_Funnel_2023.png)  
    
