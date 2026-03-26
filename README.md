@@ -27,7 +27,7 @@
    
    ![Product Funnel_2023](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Product_Funnel_2023.png)
 
- * **[Project TimeLine (Gantt)](https://public.tableau.com/views/ProjectTimeLineGantt/ProjectTimeline?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+ * **[Project TimeLine](https://public.tableau.com/views/ProjectTimeLineGantt/ProjectTimeline?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
       ![Project TimeLine (Gantt)](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Project TimeLine (Gantt).png)
 
 ## Project structure  
