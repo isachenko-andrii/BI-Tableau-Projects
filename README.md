@@ -27,6 +27,9 @@
    
    ![Product Funnel_2023](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Product_Funnel_2023.png)
 
+ * **[Project TimeLine (Gantt)](https://public.tableau.com/views/ProjectTimeLineGantt/ProjectTimeline?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
+      ![Project TimeLine (Gantt)](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Project TimeLine (Gantt).png)
+
 ## Project structure  
   
 **BI-Tableau-Projects**/ — project directory  
@@ -38,6 +41,7 @@
 │ ├── SaaS Sales Analytics 2022-2023.twbx    
 │ ├── User Engagement & Game Activity Analysis 2022.twbx   
 │ ├── Financial Growth & Cohort Analysis.twbx  
+│ ├── Project TimeLine (Gantt).twbx  
 │ └── Product_Funnel_2023.twbx  
 ├── images/ — saved graphs and final dashboard  
 ├── LICENSE — MIT License  
