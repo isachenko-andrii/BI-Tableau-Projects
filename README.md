@@ -29,7 +29,7 @@
 
  * **[Project TimeLine](https://public.tableau.com/views/ProjectTimeLineGantt/ProjectTimeline?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
      
-      ![Project TimeLine](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Project TimeLine (Gantt).png)
+      ![Project TimeLine](https://github.com/isachenko-andrii/BI-Tableau-Projects/blob/main/images/Project_TimeLine.png)
 
 ## Project structure  
   
